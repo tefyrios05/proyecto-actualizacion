@@ -165,7 +165,7 @@ def ver_productos():
 
 def menu():
     while True:
-        print("\n===== MENU PRINCIPAL =====")
+        print("\n===== KnitCalc =====")
         print("1. Nuevo producto")
         print("2. Ver productos")
         print("3. Salir")
